@@ -4,8 +4,8 @@
 A C++ console-based attendance system for hour-based lectures. 
 
 ##  Developer
-- Name: ACQUAYE ISHMAEL
-- Index Number: [01242378D]
+- Name: Ayornu Bless Otu 
+- Index Number: [01243415D]
 - Programme: HND Electrical Engineering (Level 200)
 
 ##  Project Timeline
